@@ -1,3 +1,3 @@
-artifactory('new') {
-	
+artifactory('test') {
+   
 }
