@@ -1,3 +1,3 @@
-artifactory('Old') {
+artifactory('new') {
 	
 }
